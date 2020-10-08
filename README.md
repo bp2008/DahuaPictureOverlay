@@ -8,8 +8,8 @@ Supported input formats include BMP, PNG, and JPG.
 
 The input image will be scaled to fit within the limits:
 * 128x128 pixels
-* 16 KiB file size.
-* 256 colors.
+* 16 KiB file size
+* 256 colors
 
 An optimal color palette is computed to suit your image.
 
